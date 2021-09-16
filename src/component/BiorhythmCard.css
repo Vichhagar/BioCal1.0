@@ -1,0 +1,13 @@
+.biorhythmCard {
+    text-align: center;
+    line-height: 15px;
+}
+.biorhythmCard .emotional {
+    color: red;
+}
+.biorhythmCard .physical {
+    color: blue;
+}
+.biorhythmCard .intellectual {
+    color: green;
+}
